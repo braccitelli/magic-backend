@@ -1,0 +1,26 @@
+{
+  "name": "magic-backend",
+  "version": "1.0.0",
+  "description": "projeto de magic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://detentor@bitbucket.org/magicbgv/magic-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/magicbgv/magic-backend#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "https": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11",
+    "request": "^2.83.0"
+  }
+}
